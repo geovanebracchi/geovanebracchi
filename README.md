@@ -1,36 +1,60 @@
-Olá, sou o Geovane 👋
-Estudante de Engenharia de Software pela UNINTER, com experiência prática em desenvolvimento Android, web e automação. Tenho contato com tecnologia desde 2013 e desenvolvo projetos próprios voltados para resolver problemas reais do dia a dia operacional.
+# Olá, sou o Geovane 👋
 
-🚀 O que estou construindo
-ProjetoDescriçãoTecnologias🎵 Studio ConceptSistema web de gestão para estúdio — agendamentos, pacotes, financeiro e notificaçõesNext.js · React · TypeScript · Firebase📋 Controle de EscalaApp Android para gestão de escalas, plantões e ocorrências operacionaisKotlin · Jetpack Compose · Room · SQLite🛡️ RondaSeguraApp Android para rondas patrimoniais com QR Code, GPS e relatórios em PDFKotlin · Firebase · ML Kit · GPS🤖 AtenaAssistente local com IA, memória persistente, voz e integração com TelegramNode.js · TypeScript · SQLite · Whisper
+Estudante de **Engenharia de Software** pela UNINTER, com experiência prática em desenvolvimento Android, web e automação. Tenho contato com tecnologia desde 2013 e desenvolvo projetos próprios voltados para resolver problemas reais do dia a dia operacional.
 
-🛠️ Tecnologias que uso
-Mobile
-Kotlin Jetpack Compose Material 3 Room SQLite ViewModel Navigation Compose
-Web & Backend
-TypeScript JavaScript React Next.js Node.js Tailwind CSS
-Banco de dados & Infra
-Firebase Firestore Firebase Auth SQLite Firestore Security Rules
-Ferramentas
-Git GitHub VS Code Android Studio Firebase Tools
-IA Aplicada ao Desenvolvimento
-Claude Claude Code ChatGPT Codex Gemini Google AI Studio
+---
+
+## 🚀 O que estou construindo
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🎵 **Studio Concept** | Sistema web de gestão para estúdio — agendamentos, pacotes, financeiro e notificações | Next.js · React · TypeScript · Firebase |
+| 📋 **Controle de Escala** | App Android para gestão de escalas, plantões e ocorrências operacionais | Kotlin · Jetpack Compose · Room · SQLite |
+| 🛡️ **RondaSegura** | App Android para rondas patrimoniais com QR Code, GPS e relatórios em PDF | Kotlin · Firebase · ML Kit · GPS |
+| 🤖 **Atena** | Assistente local com IA, memória persistente, voz e integração com Telegram | Node.js · TypeScript · SQLite · Whisper |
+
+---
+
+## 🛠️ Tecnologias que uso
+
+**Mobile**
+`Kotlin` `Jetpack Compose` `Material 3` `Room` `SQLite` `ViewModel` `Navigation Compose`
+
+**Web & Backend**
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Tailwind CSS`
+
+**Banco de dados & Infra**
+`Firebase Firestore` `Firebase Auth` `SQLite` `Firestore Security Rules`
+
+**Ferramentas**
+`Git` `GitHub` `VS Code` `Android Studio` `Firebase Tools`
+
+**IA Aplicada ao Desenvolvimento**
+`Claude` `Claude Code` `ChatGPT` `Codex` `Gemini` `Google AI Studio`
+
 Acompanho ativamente novos lançamentos e tendências em IA aplicada ao desenvolvimento — uso essas ferramentas de forma estratégica para programação, análise de erros, automação e documentação.
 
-📚 Formação
+---
 
-🎓 Bacharelado em Engenharia de Software — UNINTER (em andamento)
-📖 Bacharelado em Teologia — UNINTER (concluído em 2022)
-🐍 Fundamentos de Python 1 — SENAI (previsto jun/2026)
+## 📚 Formação
 
+- 🎓 Bacharelado em **Engenharia de Software** — UNINTER *(em andamento)*
+- 📖 Bacharelado em Teologia — UNINTER *(concluído em 2022)*
+- 🐍 Fundamentos de Python 1 — SENAI *(previsto jun/2026)*
 
-📊 Contribuições
-Mostrar Imagem
+---
 
-📬 Contato
+## 📊 Contribuições
 
-📧 programadorbracchi@gmail.com
-💼 linkedin.com/in/geovanebracchi
+![](https://ghchart.rshah.org/geovanebracchi)
 
+---
 
-Sempre aprendendo. Sempre construindo.
+## 📬 Contato
+
+- 📧 programadorbracchi@gmail.com
+- 💼 [linkedin.com/in/geovanebracchi](https://linkedin.com/in/geovanebracchi)
+
+---
+
+*Sempre aprendendo. Sempre construindo.*
