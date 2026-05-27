@@ -41,7 +41,7 @@ Estudante de **Engenharia de Software** pela UNINTER, com experiência prática 
 
 ## 📊 Contribuições
 
-![Contribuições do Geovane](https://github-readme-stats.vercel.app/api?username=geovanebracchi&show_icons=true&locale=pt-br&theme=default&hide_border=true)
+![](https://ghchart.rshah.org/geovanebracchi)
 
 ---
 
