@@ -52,7 +52,6 @@ Acompanho ativamente novos lançamentos e tendências em IA aplicada ao desenvol
 
 ## 📬 Contato
 
-- 📧 programadorbracchi@gmail.com
 - 💼 [linkedin.com/in/geovanebracchi](https://linkedin.com/in/geovanebracchi)
 
 ---
