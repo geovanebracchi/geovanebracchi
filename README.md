@@ -40,7 +40,6 @@ Acompanho ativamente novos lançamentos e tendências em IA aplicada ao desenvol
 
 - 🎓 Bacharelado em **Engenharia de Software** — UNINTER *(em andamento)*
 - 📖 Bacharelado em Teologia — UNINTER *(concluído em 2022)*
-- 🐍 Fundamentos de Python 1 — SENAI *(previsto jun/2026)*
 
 ---
 
